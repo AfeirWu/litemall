@@ -8,7 +8,7 @@
             <svg-icon icon-class="peoples" class-name="card-panel-icon" />
           </div>
           <div class="card-panel-description">
-            <div class="card-panel-text">用户数量111</div>
+            <div class="card-panel-text">用户数量</div>
             <count-to :start-val="0" :end-val="userTotal" :duration="2600" class="card-panel-num"/>
           </div>
         </div>
@@ -19,7 +19,7 @@
             <svg-icon icon-class="message" class-name="card-panel-icon" />
           </div>
           <div class="card-panel-description">
-            <div class="card-panel-text">商品数量222</div>
+            <div class="card-panel-text">商品数量</div>
             <count-to :start-val="0" :end-val="goodsTotal" :duration="3000" class="card-panel-num"/>
           </div>
         </div>
